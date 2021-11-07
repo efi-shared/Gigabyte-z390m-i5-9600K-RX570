@@ -9,5 +9,5 @@
 | Disk     |  M.2 1T          |
 
 ### Versions
-- OpenCore 0.6.9
-- OpenCore 0.7.4
+- OpenCore 0.6.9 (tag v0.6.9)
+- OpenCore 0.7.4 (tag v0.7.4)
